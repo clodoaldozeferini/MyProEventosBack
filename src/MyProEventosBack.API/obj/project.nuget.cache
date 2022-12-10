@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HD5e2z6Xq1zvFsdO74C4h3TApacsIlj7JveauQRKEfcBA2ktpvYEm+afDcZAfT6L0Cvq0oFhf3qTsbNrEWJLBw==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\clodoaldozeferini\\MyProEventos\\MyProEventosBack\\src\\MyProEventosBack.API\\MyProEventosBack.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clodo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\clodo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\clodo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\clodo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\clodo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\clodo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
