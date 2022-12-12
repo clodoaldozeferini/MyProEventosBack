@@ -13,7 +13,6 @@ D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.A
 D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\MyProEventosBack.API.MvcApplicationPartsAssemblyInfo.cs
 D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\MyProEventosBack.API.MvcApplicationPartsAssemblyInfo.cache
 D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\staticwebassets\MyProEventosBack.API.StaticWebAssets.Manifest.cache
-D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\staticwebassets\MyProEventosBack.API.StaticWebAssets.xml
 D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\scopedcss\bundle\MyProEventosBack.API.styles.css
 D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\MyProEventosBack.API.RazorTargetAssemblyInfo.cache
 D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\MyProEventosBack.API.csproj.CopyComplete
@@ -26,4 +25,5 @@ D:\github\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.A
 D:\github\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\bin\Debug\net5.0\MyProEventosBack.API.dll
 D:\github\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\bin\Debug\net5.0\MyProEventosBack.API.pdb
 D:\github\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\MyProEventosBack.API.genruntimeconfig.cache
-D:\github\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\bin\Debug\net5.0\ref\MyProEventosBack.API.dll
+D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\refint\MyProEventosBack.API.dll
+D:\GitHub\clodoaldozeferini\MyProEventos\MyProEventosBack\src\MyProEventosBack.API\obj\Debug\net5.0\staticwebassets\MyProEventosBack.API.StaticWebAssets.xml
